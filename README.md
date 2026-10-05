@@ -279,13 +279,17 @@ This allows the system to retrieve information based on semantic meaning.
 * Add document retrieval functionality
 
 ## Work Picture
-<img width="496" height="88" alt="Screenshot 2026-10-05 134957" src="https://github.com/user-attachments/assets/99964004-5f48-4d45-a8d1-2afb25f7b7df" />
-<img width="1012" height="288" alt="Screenshot 2026-10-05 134952" src="https://github.com/user-attachments/assets/2963f387-7b13-4bda-ba5b-e48a6d2ec063" />
-<img width="1098" height="846" alt="Screenshot 2026-10-05 134943" src="https://github.com/user-attachments/assets/43c84597-19c3-4ddc-a1e1-33d1efc122d9" />
-<img width="1007" height="828" alt="Screenshot 2026-10-05 134929" src="https://github.com/user-attachments/assets/e0a5b8ce-fc8d-400f-9219-964aa411d514" />
-<img width="902" height="697" alt="Screenshot 2026-10-05 134912" src="https://github.com/user-attachments/assets/b2f0d837-69fc-4ee3-af38-08f96a3777e9" />
-<img width="618" height="837" alt="Screenshot 2026-10-05 134904" src="https://github.com/user-attachments/assets/8e106496-e0f4-4a85-b4ac-58059addd1d0" />
 <img width="717" height="325" alt="Screenshot 2026-10-05 134853" src="https://github.com/user-attachments/assets/aaf7badb-0f7f-4f70-b6e2-8aaf6976a38b" />
+<img width="618" height="837" alt="Screenshot 2026-10-05 134904" src="https://github.com/user-attachments/assets/8e106496-e0f4-4a85-b4ac-58059addd1d0" />
+<img width="902" height="697" alt="Screenshot 2026-10-05 134912" src="https://github.com/user-attachments/assets/b2f0d837-69fc-4ee3-af38-08f96a3777e9" />
+<img width="1007" height="828" alt="Screenshot 2026-10-05 134929" src="https://github.com/user-attachments/assets/e0a5b8ce-fc8d-400f-9219-964aa411d514" />
+<img width="1098" height="846" alt="Screenshot 2026-10-05 134943" src="https://github.com/user-attachments/assets/43c84597-19c3-4ddc-a1e1-33d1efc122d9" />
+<img width="1012" height="288" alt="Screenshot 2026-10-05 134952" src="https://github.com/user-attachments/assets/2963f387-7b13-4bda-ba5b-e48a6d2ec063" />
+<img width="496" height="88" alt="Screenshot 2026-10-05 134957" src="https://github.com/user-attachments/assets/99964004-5f48-4d45-a8d1-2afb25f7b7df" />
+
+
+
+
 
 ## Learning Outcomes
 
